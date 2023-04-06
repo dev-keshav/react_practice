@@ -1,8 +1,9 @@
 
 import './App.css';
 
-import ExpenseItem from './Expenses/ExpenseItem.js';
-import Card from './UI/Card.js';
+import ExpenseItem from "./components/Expenses/ExpenseItem.js"
+// import Card from './UI/Card.js';
+// import Card from './components/UI/Card';
  
 
 function App(props) {
